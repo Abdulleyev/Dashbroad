@@ -242,13 +242,13 @@ nav .nav-tabs {
 .Tariff-report .Tariff-report-child {
     background-color: white;
     padding: 30px;
-    height: 400px !important;
+    height: 448px !important;
     border-radius: 8px;
 
 
 }
 .Tariff-report .Tariff-report-child canvas{
-    height: 320px !important;
+    height: 360px !important;
 }
 .Subscription-fee {
     padding-left: 0;
@@ -256,7 +256,7 @@ nav .nav-tabs {
 
 .Subscription-fee .Subscription-fee-child {
     background-color: white;
-    height: 400px;
+    height: 448px;
     padding: 30px;
     border-radius: 8px;
 
@@ -326,7 +326,7 @@ nav .nav-tabs {
 
 }
 .scroll-fee{
-    height: 173px;
+    height: 230px;
     overflow-y: auto;
     margin-top: 35px;
 }

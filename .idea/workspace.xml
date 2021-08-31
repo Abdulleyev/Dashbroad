@@ -7,7 +7,6 @@
     <list default="true" id="570f451c-819f-423e-9aea-58ffd549bba7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Deshbroad/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Deshbroad/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Deshbroad/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Deshbroad/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630383719892</updated>
       <workItem from="1630383721352" duration="189000" />
-      <workItem from="1630384161450" duration="2923000" />
+      <workItem from="1630384161450" duration="3616000" />
     </task>
     <servers />
   </component>
