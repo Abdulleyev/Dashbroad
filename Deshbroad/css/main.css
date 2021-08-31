@@ -58,8 +58,8 @@ body {
 
 .container-fluid .row .Number-subscribers {
     background-color: white;
-    margin-top: 35px;
-    height: 400px;
+    margin-top: 15px;
+    height: 350px;
     padding: 30px;
     box-sizing: border-box;
     border-radius: 8px;
@@ -111,12 +111,12 @@ nav .nav-tabs {
     font-size: 17px;
     line-height: 23px;
     color: #AEAEAE;
-    margin-top: 48px;
+    margin-top: 28px;
     margin-bottom: 0;
 }
 
 .container-fluid .row .Number-subscribers h2 {
-    font-size: 86px;
+    font-size: 73px;
     line-height: 86px;
     margin: 0;
 }
@@ -130,7 +130,7 @@ nav .nav-tabs {
 .surrounding-footer {
     display: flex;
     justify-content: space-between;
-    margin-top: 57px;
+    margin-top: 36px;
 }
 
 .Number-subscribers-footer-child {
@@ -189,12 +189,12 @@ nav .nav-tabs {
 }
 
 .Number-subscribers-right {
-    margin-top: 35px;
+    margin-top: 15px;
 }
 
 .Number-subscribers-right .row .col-4 .Doughnut {
     background-color: white;
-    height: 400px;
+    height: 350px;
     border-radius: 8px;
 }
 
@@ -208,9 +208,9 @@ nav .nav-tabs {
 .Number-subscribers-right .row .col-4 .Doughnut canvas {
 
     box-sizing: border-box;
-    object-fit: none;
     height: 244px !important;
     width: 244px;
+    padding: 12px;
 
 }
 
@@ -224,7 +224,7 @@ nav .nav-tabs {
 
 .Number-subscribers-right .row .col-4 .Doughnut h3 {
     letter-spacing: 0.01em;
-    font-size: 48px;
+    font-size: 40px;
     line-height: 116%;
     margin: 0;
     text-align: center;
@@ -236,17 +236,19 @@ nav .nav-tabs {
 
 .Tariff-report {
     margin-bottom: 30px;
+
 }
 
 .Tariff-report .Tariff-report-child {
     background-color: white;
     padding: 30px;
-    height: 464px;
+    height: 400px !important;
     border-radius: 8px;
+
 
 }
 .Tariff-report .Tariff-report-child canvas{
-    height: 383px !important;
+    height: 320px !important;
 }
 .Subscription-fee {
     padding-left: 0;
@@ -254,7 +256,7 @@ nav .nav-tabs {
 
 .Subscription-fee .Subscription-fee-child {
     background-color: white;
-    height: 464px;
+    height: 400px;
     padding: 30px;
     border-radius: 8px;
 
@@ -324,9 +326,9 @@ nav .nav-tabs {
 
 }
 .scroll-fee{
-    height: 216px;
-    overflow: auto;
-    margin-top: 55px;
+    height: 173px;
+    overflow-y: auto;
+    margin-top: 35px;
 }
 .scroll-fee .scroll-fee-child{
     justify-content: space-between;
